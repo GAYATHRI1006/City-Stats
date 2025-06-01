@@ -5,8 +5,8 @@ A simple and visually appealing web application that displays the population, li
 🔗 [Live Demo](https://city-stats-sample.netlify.app/) 
 ## Screenshots
 
-![Screenshot1](./city-stats1.png)
-![Screenshot2](./city-stats2.png)
+![Screenshot1](./city-stats/city-stats1.png)
+![Screenshot2](./city-stats/city-stats2.png)
 ## Developed By
 **Gayathri G**  
 GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
